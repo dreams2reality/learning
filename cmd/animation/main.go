@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"sandbox/animate"
+	"github.com/dreams2reality/learning/animate"
 )
 
 func main() {
